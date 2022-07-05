@@ -42,4 +42,3 @@ The data presents Kickstarter campaigns from 2009 through 2017, for over 20 coun
 
 - What are some other possible tables and/or graphs that we could create?
 Other helpful information we can provide Louise is related to pledging amounts. By determining the average donation, Louise can set pledge incentives to help boost pledges to her campaign.
-
